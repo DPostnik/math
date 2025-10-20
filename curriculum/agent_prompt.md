@@ -100,9 +100,9 @@ math-learning/
 │   ├── todo_lessons.md          # TODO-лист уроков
 │   └── 8_class/
 │       ├── 01_topic/
-│       │   ├── theory_2024-09-02.md
-│       │   ├── practice_2024-09-02.md
-│       │   └── homework_2024-09-02.md
+│       │   ├── theory_2025-09-02.md
+│       │   ├── practice_2025-09-02.md
+│       │   └── homework_2025-09-02.md
 │       └── 02_topic/
 │           └── [новые файлы]
 ```
